@@ -5,8 +5,7 @@
  A passionate, hardworking and highly efficient web developer with sound knowledge in Full Stack technology and hands-on practice in Data Structure and Algorithms.
 
 Skills:  REACT / Node JS / Express Js / HTML / CSS
-
--📫 How to reach me: sa147831@gmail.com 
+- 📫 How to reach me: sa147831@gmail.com 
 - 😄 Pronouns: He/His 
 - ⚡ Fun fact: Time, Tide, and JavaScript wait for none. 
 
