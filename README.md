@@ -6,7 +6,9 @@
 
 Skills:  REACT / Node JS / Express Js / HTML / CSS
 
- 
+-📫 How to reach me: sa147831@gmail.com 
+- 😄 Pronouns: He/His 
+- ⚡ Fun fact: Time, Tide, and JavaScript wait for none. 
 
 
 
