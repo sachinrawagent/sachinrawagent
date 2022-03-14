@@ -5,10 +5,26 @@
 
 
 ## Connect with me:
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/sachin-agrawal-7a3085230/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/sachin-agrawal-7a3085230/" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="neeraj yadav"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://twitter.com/SachinA04420493" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="ynniraj_"
+      height="30"
+      width="40"
+  /></a>
 </p>
+
 
 
 
